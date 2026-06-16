@@ -1,0 +1,3 @@
+# Workflow de automação da régua de CRM — usa apenas a biblioteca padrão do Python 3.
+# Nenhuma dependência externa é necessária para o teste com JSON local.
+# Para BigQuery em produção: pip install google-cloud-bigquery
